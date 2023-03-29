@@ -40,13 +40,12 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 
 
 ### Rafrásar teikningar
-![Rafrásteikning-byssa](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/ByssuTenging.svg)
-![Rafrásteikning-hub](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/amopickupTengingar.svg)
-
+- [Rafrásteikning-byssa](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/ByssuTenging.svg)
+- [Rafrásteikning-hub](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/amopickupTengingar.svg)
 
 ### [Myndband af virkni](https://youtu.be/NeMznGbVOKM)
 
-[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%">](https://youtu.be/NeMznGbVOKM)
+[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)
 
 ## Dagbók
 ### Tími 1
