@@ -45,6 +45,7 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 
 ### [Myndband af virkni](https://youtu.be/NeMznGbVOKM)
 
+[![Myndband](https://youtu.be/NeMznGbVOKM)](https://youtu.be/NeMznGbVOKM)
 
 ## Dagbók
 ### Tími 1
