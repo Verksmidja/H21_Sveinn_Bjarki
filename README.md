@@ -20,31 +20,25 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 - bc547 transistor
 
 ## Kóði
-[Laser byssa kóði](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/esp32/mqtt_client/mqtt_client.ino)
+- [Laser byssa kóði](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/esp32/mqtt_client/mqtt_client.ino)
+- [Raspberry pi receiver/Ammo station](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/lasertag_raspberrypi.py)
+- [Server kóði fyrir vefappið](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/app.py)
 
-[Raspberry pi receiver/Ammo station](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/lasertag_raspberrypi.py)
-
-[Server kóði fyrir vefappið](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/app.py)
-
-## Hönnunarteikningar, Rafrásateikningar og tenglar
 ### Hönnunarteikningar
-[Byssa - SVG](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/gun.svg)
+- [Byssa - SVG](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/gun.svg)
+- [Kassi utan um ammo station - SVG](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/amohub.svg)
 
-[Kassi utan um ammo station - SVG](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/amohub.svg)
-
-### upsetningu á brauðbretti.
-![Brauðbretti](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/myndir_mynbond/grunuppsetning.jpg)
-
-### Loka uppsetning byssu
-![byssa](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/byssa-uppsettnitg.jpg)
-
-
-### Rafrásar teikningar
+### Rafrásarteikningar
 - [Rafrásteikning-byssa](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/ByssuTenging.svg)
 - [Rafrásteikning-hub](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/amopickupTengingar.svg)
 
-### [Myndband af virkni](https://youtu.be/NeMznGbVOKM)
+### upsettningu á brauðbretti.
+![Brauðbretti](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/myndir_mynbond/grunuppsetning.jpg)
 
+### Lokauppsetning á byssu
+![byssa](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/byssa-uppsettnitg.jpg)
+
+### Myndband af virkni
 [<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)
 
 ## Dagbók
