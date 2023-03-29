@@ -1,4 +1,5 @@
-# Vesm3 lokaverkefni - Sveinn og Bjartur
+# IoT Lasertag 
+- Sveinn og Bjartur
 
 ## Verkefnalýsing
 
@@ -18,6 +19,12 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 - Laser
 - 10k viðnám
 - bc547 transistor
+
+### Aðal söfn
+- [Json safn](https://arduinojson.org/)
+- [ESP MQTT](https://www.arduino.cc/reference/en/libraries/espmqttclient/)
+- [PAHO MQTT](https://pypi.org/project/paho-mqtt/)
+- [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 
 ## Kóði
 - [Laser byssa kóði](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/esp32/mqtt_client/mqtt_client.ino)
@@ -61,9 +68,3 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 ## Heimildir
 Þegar það kemur að kóða var aðeins boilerplate notað hjá ESP MQTT safninu og allt annað var gert með notkun af docs hjá viðeigandi söfnunum.
 
-
-### Aðal söfn
-- [Json safn](https://arduinojson.org/)
-- [ESP MQTT](https://www.arduino.cc/reference/en/libraries/espmqttclient/)
-- [PAHO MQTT](https://pypi.org/project/paho-mqtt/)
-- [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
