@@ -45,11 +45,8 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 
 ### [Myndband af virkni](https://youtu.be/NeMznGbVOKM)
 
-[![Myndband](https://youtu.be/NeMznGbVOKM)](https://youtu.be/NeMznGbVOKM)
+[![Myndband](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/byssa-uppsettnitg.jpg)](https://youtu.be/NeMznGbVOKM)
 
-<iframe width="807" height="605" src="https://www.youtube.com/embed/NeMznGbVOKM" title="lasertag virkni." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[![Myndband](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)
 
 ## Dagbók
 ### Tími 1
