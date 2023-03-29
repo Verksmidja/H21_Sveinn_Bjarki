@@ -36,8 +36,7 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 ![Brauðbretti](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/myndir_mynbond/grunuppsetning.jpg)
 
 ### Loka uppsetning byssu
-![byssa](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/byssa-uppsettnitg.jpg){ width:60%, height:60% }
-
+![byssa](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/byssa-uppsettnitg.jpg)
 
 
 ### Rafrásar teikningar
@@ -47,7 +46,7 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 
 ### [Myndband af virkni](https://youtu.be/NeMznGbVOKM)
 
-[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)
+[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%">](https://youtu.be/NeMznGbVOKM)
 
 ## Dagbók
 ### Tími 1
