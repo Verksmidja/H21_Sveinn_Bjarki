@@ -48,6 +48,10 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 ### Myndband af virkni
 [<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)
 
+[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://github.com/Verksmidja/H21_Sveinn_Bjarki/blob/main/lasertag-virkni.mp4)
+
+
+
 ## Dagbók
 ### Tími 1
 - Við byrjuðum að safna saman efnislista og hugsa hvað við þurftum að nota til fyrir verkefnið.
@@ -67,4 +71,6 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 
 ## Heimildir
 Þegar það kemur að kóða var aðeins boilerplate notað hjá ESP MQTT safninu og allt annað var gert með notkun af docs hjá viðeigandi söfnunum.
+
+
 
