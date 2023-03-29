@@ -38,6 +38,8 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 ### Loka uppsetning byssu
 ![byssa](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/byssa-uppsettnitg.jpg)
 
+![byssa]([myphoto.png](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/byssa-uppsettnitg.jpg)){ width=60%,height:30px }
+
 ### Rafrásar teikningar
 ![Rafrásteikning-byssa](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/ByssuTenging.svg)
 ![Rafrásteikning-hub](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/amopickupTengingar.svg)
@@ -45,7 +47,8 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 
 ### [Myndband af virkni](https://youtu.be/NeMznGbVOKM)
 
-[![Myndband](https://github.com/sveinnoli/vesm3_lokaverkefni/blob/main/byssa-uppsettnitg.jpg)](https://youtu.be/NeMznGbVOKM)
+
+[![Title](Image URL)](Link URL)
 
 
 ## Dagbók
