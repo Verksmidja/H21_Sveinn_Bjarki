@@ -48,9 +48,6 @@ Skotinn og lífið leikmanna er sýnt á SSD1306 OLED skjá og þegar leikmaður
 ### Myndband af virkni
 [<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)
 
-[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://github.com/Verksmidja/H21_Sveinn_Bjarki/blob/main/lasertag-virkni.mp4)
-
-
 
 ## Dagbók
 ### Tími 1
